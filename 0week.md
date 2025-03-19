@@ -34,4 +34,5 @@
 
 
 
-![sql0week](/git/sql0week.png)
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/3786d8cf-4656-4985-a5bf-056938d76d71" />
+
